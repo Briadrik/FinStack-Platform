@@ -1,4 +1,4 @@
-# ZamuPay Data Engine — Real-Time African Fintech Data Pipeline
+# Data Engineering for Multi-country Financial Services
 
 A simulated, real-time fintech data pipeline built to model wallet transactions, fraud
 signals, and multi-currency payments across six African markets (Kenya, Nigeria, Ghana,
